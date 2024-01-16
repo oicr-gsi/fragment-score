@@ -1,6 +1,6 @@
 # The "Fragmentation Score" Method
 
-Several studies have shown that ctDNA fragments differ in length from healthy cfDNA. This method, adapted from [Vessies et al. (2022)](https://github.com/DCLVessies/Fragmentomics) and [Wong et al. (2023)](https://github.com/pughlab/fragmentomics/tree/main/fragment_score), explores the use of a length-derived "fragmentation score" to detect ctDNA. The higher the score, the higher the likelihood that ctDNA is present.
+Several studies have shown that circulating tumour DNA (ctDNA) fragments differ in length from healthy cell-free DNA (cfDNA). This method, adapted from [Vessies et al. (2022)](https://github.com/DCLVessies/Fragmentomics) and [Wong et al. (2023)](https://github.com/pughlab/fragmentomics/tree/main/fragment_score), explores the use of a length-derived "fragmentation score" to detect ctDNA. The higher the score, the higher the likelihood that ctDNA is present.
 
 The Fragmentation Score (FS) has three different uses:
 
